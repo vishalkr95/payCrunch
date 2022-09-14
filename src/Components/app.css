@@ -1,0 +1,39 @@
+.app{
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 3%;
+}
+.app1{
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.app2{
+    margin-left: 15%;
+    margin-top: 2%;
+    color: red;
+}
+.app3{
+    margin-left: 17%;
+    
+}
+ 
+.app4{
+    width: 40%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.loginWrapper{
+
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+.signupWrapper{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+.servise{
+    margin-bottom: 5%;
+}
